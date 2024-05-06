@@ -6,6 +6,8 @@
 
 Neste tutorial, apresentaremos um guia passo a passo para garantir a qualidade no desenvolvimento de sites e aplicativos por meio de testes detalhados. A qualidade é fundamental para garantir a satisfação do usuário e o bom funcionamento das plataformas digitais. Seguindo estas etapas, você poderá identificar e corrigir possíveis problemas, melhorando assim a experiência do usuário.
 
+Atenção! Leia e compreenda todo o texto a seguir antes de iniciar o processo. Em caso de dúvidas, não hesite em perguntar. O objetivo é acertar desde a primeira vez!
+
 **Desenvolvimento:**
 
 1. **Preparação do Ambiente de Teste:**
