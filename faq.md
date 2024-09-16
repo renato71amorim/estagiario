@@ -28,7 +28,7 @@ Os únicos requisitos para se cadastrar e começar a testar são:
 
 A plataforma TestandoSistemas.net visa oferecer uma experiência acessível e inclusiva para todos, independentemente do nível de conhecimento em testes de software.  Então, não hesite em se cadastrar e começar a explorar o mundo dos testes!  🎉 
 
-## Como posso encontrar os sistemas disponíveis para teste no TestandoSistemas.net?##
+## Como posso encontrar os sistemas disponíveis para teste no TestandoSistemas.net?
 
 Após se cadastrar no TestandoSistemas.net, você encontrará uma área específica na plataforma dedicada aos sistemas disponíveis para teste.  
 
