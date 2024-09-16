@@ -1,4 +1,4 @@
-##Como posso me cadastrar para testar os sistemas no site testandosistemas.net?##
+##Como posso me cadastrar para testar os sistemas no site testandosistemas.net?
 
 Que legal que você quer se cadastrar no TestandoSistemas.net! 😊  Para começar a testar os sistemas, você precisa seguir estes passos:
 
@@ -16,7 +16,7 @@ Que legal que você quer se cadastrar no TestandoSistemas.net! 😊  Para começ
 
 Pronto! Agora você está pronto para fazer parte do TestandoSistemas.net e contribuir para o desenvolvimento de sistemas inovadores. 😄
 
-##Quais são os requisitos para começar a testar os sistemas no TestandoSistemas.net?##
+##Quais são os requisitos para começar a testar os sistemas no TestandoSistemas.net?
 
 Para começar a testar os sistemas no TestandoSistemas.net, você não precisa ter experiência prévia em testes de software!  A plataforma é ideal para iniciantes e oferece uma oportunidade única para aprender e contribuir com o desenvolvimento de sistemas. 
 
@@ -52,7 +52,7 @@ Lembre-se de ler atentamente as instruções de cada sistema antes de começar a
 
 Aproveite a oportunidade de testar sistemas e contribuir para o desenvolvimento de softwares inovadores! 😄
 
-##O TestandoSistemas.com oferece algum tipo de treinamento para os testadores antes de começarem a testar os sistemas?##
+##O TestandoSistemas.com oferece algum tipo de treinamento para os testadores antes de começarem a testar os sistemas?
 
 
-##Você sabe se a plataforma oferece algum tipo de certificação para os testadores após a conclusão do treinamento?##
+##Você sabe se a plataforma oferece algum tipo de certificação para os testadores após a conclusão do treinamento?
